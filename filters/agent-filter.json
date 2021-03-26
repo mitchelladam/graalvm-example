@@ -1,0 +1,7 @@
+{ "rules": [
+  {"excludeClasses": "junit.**"},
+  {"excludeClasses": "org.junit.**"},
+  {"excludeClasses": "org.apache.maven.surefire.**"},
+  {"excludeClasses": "oracle.test.**"}
+]
+}
